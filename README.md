@@ -1,0 +1,2 @@
+# FirstTips
+一个可以让android开发者方便的创建帮助提示界面的sdk和demo
