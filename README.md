@@ -50,6 +50,6 @@
 		tipsImageView.showTips();
 ###不懂的可以看demo：
 ###https://github.com/ganlinux/FirstTipsDemo
-##此sdk意在抛砖引玉，如有更好的意见或修改可告知
+##此sdk意在抛砖引玉，如有更好的意见或修改请告知，共同进步
 ###效果图如下：
 ![image](https://github.com/ganlinux/FirstTipsDemo/raw/master/FirstTipsDemo/show/demo.jpg)
